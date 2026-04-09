@@ -8,8 +8,8 @@
 <teiHeader> 
 	 <fileDesc> 
 		<titleStmt> 
-		  <title>Las ilusiones del doctor Faustino : edición ELTeC</title> 
-		  <author ref="viaf:46770556">Valera y Alcalá-Galiano, Juan (1824-1905)</author>
+		  <title ref="wikidata:Q19453846">Las ilusiones del doctor Faustino : edición ELTeC</title> 
+		  <author ref="viaf:46770556 wikidata:Q463630">Valera y Alcalá-Galiano, Juan (1824-1905)</author>
 		  <respStmt>
 					<resp>Edición ELTEC</resp>
 					<name>Borja Navarro Colorado</name>

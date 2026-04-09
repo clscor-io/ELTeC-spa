@@ -7,8 +7,8 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Trafalgar :  edición ELTeC</title>
-				<author ref="viaf:71395987">Pérez Galdós, Benito (1843-1920)</author>
+				<title ref="wikidata:Q3997228">Trafalgar :  edición ELTeC</title>
+				<author ref="viaf:71395987 wikidata:Q189869">Pérez Galdós, Benito (1843-1920)</author>
 				<respStmt>
 					<resp>Edición ELTeC</resp>
 					<name>Borja Navarro Colorado</name>

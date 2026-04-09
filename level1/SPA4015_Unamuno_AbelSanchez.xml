@@ -7,8 +7,8 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title ref="viaf:217038607">Abel Sánchez : edición ELTeC</title>
-				<author ref="viaf:88844103">Unamuno, Miguel de (1864-1936)</author>
+				<title ref="viaf:217038607 wikidata:Q3822183">Abel Sánchez : edición ELTeC</title>
+				<author ref="viaf:88844103 wikidata:Q185085">Unamuno, Miguel de (1864-1936)</author>
 				<respStmt>
 					<resp>Edición ELTeC</resp>
 					<name>Borja Navarro Colorado</name>

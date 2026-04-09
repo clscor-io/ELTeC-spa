@@ -7,8 +7,8 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title ref="viaf:185147744">La hija del mar : edición ELTeC</title>
-				<author ref="viaf:51711491">Castro, Rosalía de (1837-1885)</author>
+				<title ref="viaf:185147744 wikidata:Q5966934">La hija del mar : edición ELTeC</title>
+				<author ref="viaf:51711491 wikidata:Q464264">Castro, Rosalía de (1837-1885)</author>
 				<respStmt>
 					<resp>Edición ELTeC</resp>
 					<name>Lara Tomás Caballero</name>

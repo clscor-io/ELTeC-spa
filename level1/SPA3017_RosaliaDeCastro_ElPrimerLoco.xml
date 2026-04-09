@@ -7,8 +7,8 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>El primer loco : edición ELTeC</title>
-				<author ref="viaf:51711491">Castro, Rosalía de (1837-1885)</author>
+				<title ref="wikidata:Q98031689">El primer loco : edición ELTeC</title>
+				<author ref="viaf:51711491 wikidata:Q464264">Castro, Rosalía de (1837-1885)</author>
 				<respStmt>
 					<resp>Edición ELTeC</resp>
 					<name>Borja Navarro Colorado</name>

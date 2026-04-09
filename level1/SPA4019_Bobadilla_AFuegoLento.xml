@@ -7,8 +7,8 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>A fuego lento : edición ELTeC</title>
-				<author ref="viaf:86959601">Bobadilla, Emilio (1862-1921)</author>
+				<title ref="wikidata:Q19410893">A fuego lento : edición ELTeC</title>
+				<author ref="viaf:86959601 wikidata:Q2917617">Bobadilla, Emilio (1862-1921)</author>
 				<respStmt>
 					<resp>Edición ELTeC</resp>
 					<name>Borja Navarro Colorado</name>

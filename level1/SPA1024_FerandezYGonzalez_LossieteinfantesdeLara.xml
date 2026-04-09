@@ -7,7 +7,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Los siete infantes de Lara : edición ELTeC</title>
+				<title ref="wikidata:Q5981185">Los siete infantes de Lara : edición ELTeC</title>
 				<author ref="10223685">Fernández y Gonzalez, Manuel (1821-1888)</author>
 				<respStmt>
 					<resp>Edición ELTeC</resp>
